@@ -22,7 +22,7 @@ applications.
 ## Additional Information
 
 We will do some live coding and attendees who wish to follow along should bring
-laptops (this is not essential). 
+laptops.
 
 If students wish to prepare for the seminar, they can install [Anaconda
 Python](https://www.anaconda.com/download) and learn the basics of using Jupyter
