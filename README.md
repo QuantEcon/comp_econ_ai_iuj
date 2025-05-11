@@ -16,6 +16,7 @@ applications.
 
 * Location: International University of Japan
 * Date: 2nd June 2025
+* Time: 10:30 -- 12am
 * Instructor: [John Stachurski](https://johnstachurski.net/)
 
 
